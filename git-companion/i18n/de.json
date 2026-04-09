@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "Widget Einstellungen"
+  },
+  "panel": {
+    "test": "Diese Zeichenkette wird über die Plugin-API übersetzt",
+    "open-settings": "Plugin-Einstellungen öffnen",
+    "refresh": "Aktualisieren"
+  },
+  "settings": {
+    "platform": {
+      "desc": "Wählen Sie Ihre Git-Plattform (Gitlab oder Github).",
+      "label": "Plattform"
+    },
+    "message": {
+      "desc": "Benutzerdefinierte Nachricht, die im Panel angezeigt werden soll.",
+      "label": "Nachricht",
+      "placeholder": "Nachricht eingeben..."
+    },
+    "iconFilled": {
+      "desc": "Symbol für gefüllte Variante ändern",
+      "label": "Gefülltes Symbol"
+    },
+    "refreshInterval": {
+      "desc": "Wie oft die Daten aktualisiert werden, in Sekunden.",
+      "label": "Aktualisierungsintervall (s)"
+    }
+  },
+  "widget": {
+    "tooltip": "Hallo Welt"
+  }
+}

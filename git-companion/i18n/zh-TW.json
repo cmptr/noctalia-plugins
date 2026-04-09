@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "小工具設定"
+  },
+  "panel": {
+    "test": "這個字串是透過 plugin API 翻譯的",
+    "open-settings": "開啟插件設定",
+    "refresh": "重新整理"
+  },
+  "settings": {
+    "platform": {
+      "desc": "選擇您的 git 平台（Gitlab 或 Github）。",
+      "label": "平台"
+    },
+    "message": {
+      "desc": "在面板中顯示的自訂訊息。",
+      "label": "訊息",
+      "placeholder": "輸入訊息..."
+    },
+    "iconFilled": {
+      "desc": "更改圖示為填滿變體",
+      "label": "填滿圖示"
+    },
+    "refreshInterval": {
+      "desc": "資料重新整理的頻率，單位為秒。",
+      "label": "重新整理間隔（秒）"
+    }
+  },
+  "widget": {
+    "tooltip": "Hello World"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "Cài đặt tiện ích"
+  },
+  "panel": {
+    "test": "Chuỗi này được dịch qua API plugin",
+    "open-settings": "Mở cài đặt plugin",
+    "refresh": "Làm mới"
+  },
+  "settings": {
+    "platform": {
+      "desc": "Chọn nền tảng git của bạn (Gitlab hoặc Github).",
+      "label": "Nền tảng"
+    },
+    "message": {
+      "desc": "Tin nhắn tùy chỉnh hiển thị trên bảng.",
+      "label": "Tin nhắn",
+      "placeholder": "Nhập tin nhắn..."
+    },
+    "iconFilled": {
+      "desc": "Thay đổi biểu tượng cho biến thể đầy",
+      "label": "Biểu tượng đầy"
+    },
+    "refreshInterval": {
+      "desc": "Tần suất làm mới dữ liệu, tính bằng giây.",
+      "label": "Khoảng thời gian làm mới (s)"
+    }
+  },
+  "widget": {
+    "tooltip": "Xin chào Thế giới"
+  }
+}

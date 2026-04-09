@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "Widget ayarları"
+  },
+  "panel": {
+    "test": "Bu dize, eklenti API'si aracılığıyla çevrilir.",
+    "open-settings": "Eklenti ayarlarını aç",
+    "refresh": "Yenile"
+  },
+  "settings": {
+    "platform": {
+      "desc": "Git platformunuzu seçin (Gitlab veya Github).",
+      "label": "Platform"
+    },
+    "message": {
+      "desc": "Panelde görüntülenecek özel mesaj.",
+      "label": "Mesaj",
+      "placeholder": "Bir mesaj girin..."
+    },
+    "iconFilled": {
+      "desc": "Dolu varyant için simgeyi değiştir",
+      "label": "Dolu simge"
+    },
+    "refreshInterval": {
+      "desc": "Verilerin saniye cinsinden ne sıklıkla yenileneceği.",
+      "label": "Yenileme aralığı (s)"
+    }
+  },
+  "widget": {
+    "tooltip": "Hello World"
+  }
+}

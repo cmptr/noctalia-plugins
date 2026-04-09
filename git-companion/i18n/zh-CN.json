@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "小部件设置"
+  },
+  "panel": {
+    "test": "此字符串通过插件 API 进行翻译。",
+    "open-settings": "打开插件设置",
+    "refresh": "刷新"
+  },
+  "settings": {
+    "platform": {
+      "desc": "选择您的 git 平台（Gitlab 或 Github）。",
+      "label": "平台"
+    },
+    "message": {
+      "desc": "在面板中显示的自定义消息。",
+      "label": "消息",
+      "placeholder": "输入消息..."
+    },
+    "iconFilled": {
+      "desc": "更改图标为填充变体",
+      "label": "填充图标"
+    },
+    "refreshInterval": {
+      "desc": "数据刷新的频率，单位为秒。",
+      "label": "刷新间隔（秒）"
+    }
+  },
+  "widget": {
+    "tooltip": "Hello World"
+  }
+}

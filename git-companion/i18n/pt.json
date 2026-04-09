@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "Configurações do widget"
+  },
+  "panel": {
+    "test": "Esta string é traduzida através da API do plugin.",
+    "open-settings": "Abrir configurações do plugin",
+    "refresh": "Atualizar"
+  },
+  "settings": {
+    "platform": {
+      "desc": "Escolha sua plataforma git (Gitlab ou Github).",
+      "label": "Plataforma"
+    },
+    "message": {
+      "desc": "Mensagem personalizada para exibir no painel.",
+      "label": "Mensagem",
+      "placeholder": "Digite uma mensagem..."
+    },
+    "iconFilled": {
+      "desc": "Alterar ícone para variante preenchida",
+      "label": "Ícone preenchido"
+    },
+    "refreshInterval": {
+      "desc": "Com que frequência atualizar os dados, em segundos.",
+      "label": "Intervalo de atualização (s)"
+    }
+  },
+  "widget": {
+    "tooltip": "Hello World"
+  }
+}

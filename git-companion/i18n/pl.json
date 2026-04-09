@@ -1,0 +1,32 @@
+{
+  "menu": {
+    "settings": "Ustawienia widgetu"
+  },
+  "panel": {
+    "test": "Ten ciąg znaków jest tłumaczony przez API wtyczki",
+    "open-settings": "Otwórz ustawienia wtyczki",
+    "refresh": "Odśwież"
+  },
+  "settings": {
+    "platform": {
+      "desc": "Wybierz swoją platformę git (Gitlab lub Github).",
+      "label": "Platforma"
+    },
+    "message": {
+      "desc": "Niestandardowa wiadomość do wyświetlenia w panelu.",
+      "label": "Wiadomość",
+      "placeholder": "Wprowadź wiadomość..."
+    },
+    "iconFilled": {
+      "desc": "Zmień ikonę na wypełniony wariant",
+      "label": "Wypełniona ikona"
+    },
+    "refreshInterval": {
+      "desc": "Jak często odświeżać dane, w sekundach.",
+      "label": "Interwał odświeżania (s)"
+    }
+  },
+  "widget": {
+    "tooltip": "Hello World"
+  }
+}
